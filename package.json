@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websocket.js",
+  "scripts": {
+    "go":"nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderrumaro/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderrumaro/nodejs/issues"
+  },
+  "homepage": "https://github.com/coderrumaro/nodejs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.2"
+  }
+}
